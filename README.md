@@ -11,23 +11,6 @@ Desenvolver um sistema de reconhecimento facial utilizando técnicas de Aprendiz
 
 ---
 
-## 📂 Estrutura do Repositório
-
-```
-reconhecimento_faces_pca_svm/
-│
-├── reconhecimentoFace.py      # Script principal do sistema
-├── orl_faces/                 # Base de dados ORL
-│   ├── README                 # Informações originais da base
-│   ├── s1/                    # 10 imagens do sujeito 1
-│   ├── s2/                    # 10 imagens do sujeito 2
-│   ├── ...
-│   └── s40/                   # 10 imagens do sujeito 40
-└── README.md
-```
-
----
-
 ## 🗃️ Base de Dados ORL
 
 A base ORL (*Olivetti Research Laboratory*) contém:
