@@ -1,8 +1,7 @@
 # 🎭 Reconhecimento de Faces com PCA e SVM
 
-> Trabalho da disciplina de **Inteligência Artificial** — Pontifícia Universidade Católica de Goiás  
-> **Discente:** Hakawã Luiz Bernardi | **Matrícula:** 2021.1.0033.0019-3  
-> **Professor(a):** Clarimar J. Coelho | **Curso:** CMP1110
+> Disciplina: **Inteligência Artificial** — PUC Goiás  
+> **Aluno:** Hakawã Luiz Bernardi
 
 ---
 
