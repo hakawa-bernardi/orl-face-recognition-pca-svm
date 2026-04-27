@@ -1,6 +1,6 @@
 # 🎭 Reconhecimento de Faces com PCA e SVM
 
-> Disciplina: **Inteligência Artificial** — PUC Goiás  
+> **Disciplina:** Inteligência Artificial — PUC Goiás  
 > **Aluno:** Hakawã Luiz Bernardi
 
 ---
