@@ -76,14 +76,14 @@ pip install numpy matplotlib pillow scikit-learn seaborn
 2. Ajuste o caminho da base no script:
 
 ```python
-# Em reconhecimentoFace.py, linha 8
+# Em reconhecimento_face.py, linha 8
 base_path = r"./orl_faces"  # caminho relativo ao repositório
 ```
 
 3. Execute:
 
 ```bash
-python reconhecimentoFace.py
+python reconhecimento_face.py
 ```
 
 ---
